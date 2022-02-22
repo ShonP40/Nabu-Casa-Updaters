@@ -1,5 +1,5 @@
 # Nabu Casa Updaters
-Update your Container and Core Home Assistant &amp; Container ESPHome installations with ease
+Update your Container & Core Home Assistant and ESPHome installations with ease
 
 ## Home Assistant
 - [Container](https://raw.githubusercontent.com/ShonP40/Nabu-Casa-Updaters/master/Home%20Assistant%20-%20Container%20Updater.sh)
