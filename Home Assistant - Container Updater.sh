@@ -48,5 +48,5 @@ then
     printf "\n\nHome Assistant has been updated and restarted successfully!\n\n"
     printf "You may now delete your old Home Assistant image safely\n\n"
 else
-    printf "Home Assistant won't be updated!\n\n!"
+    printf "Home Assistant won't be updated!\n\n"
 fi
